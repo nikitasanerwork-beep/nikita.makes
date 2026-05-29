@@ -29,6 +29,7 @@ Outside of design, I’m usually exploring internet culture, AI tools, social me
 - Human-AI Interaction
 - Information Architecture
 - Product Strategy
+- User Flows
 - Rapid Prototyping
 
 **Research**
@@ -37,6 +38,7 @@ Outside of design, I’m usually exploring internet culture, AI tools, social me
 - Journey Mapping
 - Behavioral Research
 - Accessibility
+- Mix Method Research
 
 **Tools**
 - Figma
