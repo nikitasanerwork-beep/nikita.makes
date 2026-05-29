@@ -20,3 +20,58 @@ Outside of design, I’m usually exploring internet culture, AI tools, social me
 
 
 
+## Things I work with
+
+**Design**
+- UX/UI Design
+- Design Systems
+- Human-AI Interaction
+- Information Architecture
+- Product Strategy
+- User Flows
+- Rapid Prototyping
+
+**Research**
+- User Interviews
+- Usability Testing
+- Journey Mapping
+- Behavioral Research
+- Accessibility
+- Mix Method Research
+
+**Tools**
+- Figma
+- Claude
+- Cursor
+- Adobe CC
+- Mixpanel
+- Hotjar
+- Miro
+- Notion
+- ProtoPie
+
+
+
+
+## Currently exploring
+- AI-native product experiences
+- Design + code workflows
+- Habit formation + cultural design
+- Creative automation
+- Building products faster with AI
+
+
+
+
+## Find me here
+
+🌐 Portfolio: https://www.nikitasaner.work/  
+🐦 X: https://twitter.com/  
+💼 LinkedIn: https://linkedin.com/in/nikita-saner/
+✍️ Medium: https://medium.com/@nikitasaner.work
+
+
+
+
+
+> “Good products make tasks easier. Great products make people feel capable.”
