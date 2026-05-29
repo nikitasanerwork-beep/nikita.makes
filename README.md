@@ -74,4 +74,5 @@ Outside of design, I’m usually exploring internet culture, AI tools, social me
 
 
 
+
 > “Good products make tasks easier. Great products make people feel capable.”
