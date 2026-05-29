@@ -1,7 +1,7 @@
 ## nikita.makes
 # Hey, I’m Nikita 🌱
 
-I’m a Product Designer who loves building thoughtful digital experiences — especially where UX, AI, systems, and human behavior intersect.
+I’m a Product Designer who loves building thoughtful experiences for humans on the internets ;)
 
 Most of my work lives in the messy but exciting space between:
 - design ↔ strategy
@@ -18,7 +18,7 @@ I enjoy:
 
 Outside of design, I’m usually exploring internet culture, AI tools, social media trends, systems thinking, or figuring out how technology can feel more human.
 
----
+
 
 ## Things I work with
 
