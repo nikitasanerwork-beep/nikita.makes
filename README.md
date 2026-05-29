@@ -1,4 +1,3 @@
-## nikita.makes
 # Hey, I’m Nikita 🌱
 
 I’m a Product Designer who loves building thoughtful experiences for humans on the internets ;)
