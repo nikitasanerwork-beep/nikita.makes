@@ -20,6 +20,7 @@ Outside of design, I’m usually exploring internet culture, AI tools, social me
 
 
 
+
 ## Things I work with
 
 **Design**
@@ -48,7 +49,8 @@ Outside of design, I’m usually exploring internet culture, AI tools, social me
 - Notion
 - ProtoPie
 
----
+
+
 
 ## Currently exploring
 - AI-native product experiences
@@ -57,14 +59,17 @@ Outside of design, I’m usually exploring internet culture, AI tools, social me
 - Creative automation
 - Building products faster with AI
 
----
+
+
 
 ## Find me here
 
 🌐 Portfolio: https://www.nikitasaner.work/  
-🐦 X/Twitter: https://twitter.com/  
+🐦 X: https://twitter.com/  
 💼 LinkedIn: https://linkedin.com/in/nikita-saner/
+✍️ Medium: https://medium.com/@nikitasaner.work
 
----
+
+
 
 > “Good products make tasks easier. Great products make people feel capable.”
