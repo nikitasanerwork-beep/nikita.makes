@@ -57,7 +57,7 @@ Outside of design, I’m usually exploring internet culture, AI tools, social me
 ## Currently exploring
 - AI-native product experiences
 - Design + code workflows
-- Social media & attention systems
+- Habit formation + cultural design
 - Creative automation
 - Building products faster with AI
 
